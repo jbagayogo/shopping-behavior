@@ -14,4 +14,4 @@ What are 6 analytical questions you can ask about this dataset?
 
 5. Is there a relationship between clothing size and purchase amount — do customers buying larger sizes (XL) spend more or less per transaction than those buying smaller sizes?
 
-6. Which payment methods are associated with the highest average spend, and does payment method correlate with promo code usage?# shopping-behavior
+6. Which payment methods are associated with the highest average spend, and does payment method correlate with promo code usage?
